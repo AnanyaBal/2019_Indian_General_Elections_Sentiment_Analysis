@@ -3,8 +3,8 @@ This project uses tweets extracted with the help of the Twitter API to project t
 
 # Prerequisites
 To be able to execute this project, your require the following besides Python 3 - 
-1. Matplotlib library
-Installation: https://matplotlib.org/users/installing.html
+1. Plotly Graphing library
+Installation: https://plot.ly/python/getting-started/
 
 2. Tweepy library
 Documentation:http://docs.tweepy.org/en/v3.5.0/
