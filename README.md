@@ -14,3 +14,5 @@ Installation: https://textblob.readthedocs.io/en/dev/install.html
 
 4. Your very own Twitter API consumer key and access token
 
+# Author
+Ananya Bal
