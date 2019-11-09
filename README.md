@@ -13,9 +13,6 @@ Documentation:http://docs.tweepy.org/en/v3.5.0/
 Installation: https://textblob.readthedocs.io/en/dev/install.html
 
 4. Your very own Twitter API consumer key and access token
-
-# Author
-Ananya Bal
  
 # Results 
 The statistics are shown below.
@@ -43,3 +40,7 @@ The city-wise positive sentiments for Shri Narendra Modi after Balakot Airstrike
 
 # Conclusions
 It can clearly be seen that the Narendra Modi's popularity rised by 10% on an average after the airstrike and that he and his party, the BJP, were the forerunners in this elections. 
+
+
+# Author
+Ananya Bal
