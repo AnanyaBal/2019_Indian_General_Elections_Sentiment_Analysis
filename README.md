@@ -17,6 +17,7 @@ Installation: https://textblob.readthedocs.io/en/dev/install.html
 # Author
 Ananya Bal
  
+# Results 
 The statistics are shown below.
 
 The city-wise positive sentiments for Shri Narendra Modi
@@ -40,4 +41,5 @@ The city-wise positive sentiments for Shri Narendra Modi before Balakot Airstrik
 The city-wise positive sentiments for Shri Narendra Modi after Balakot Airstrike
 ![Positive sentiments for Shri Narendra Modi after Balakot Airstrike](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/blob/master/NMAfterBalakot.png)
 
-It can clearly be seen that the Narendra Modi's popularity rised by 10% on an average after the airstrike. 
+# Conclusions
+It can clearly be seen that the Narendra Modi's popularity rised by 10% on an average after the airstrike and that he and his party, the BJP, were the forerunners in this elections. 
