@@ -17,3 +17,17 @@ Installation: https://textblob.readthedocs.io/en/dev/install.html
 # Author
 Ananya Bal
  
+The statistics are shown below.
+
+The city-wise positive sentiments for Shri Narendra Modi
+![alt text](https://https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/NM.png)
+
+The city-wise positive sentiments for BJP
+![alt text](https://https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/BJP.png)
+
+The city-wise positive sentiments for Shri Rahul Gandhi
+![alt text](https://https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/RAGA.png)
+
+The city-wise positive sentiments for Indian National Congress
+![alt text](https://https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/INC.png)
+
