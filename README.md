@@ -20,24 +20,24 @@ Ananya Bal
 The statistics are shown below.
 
 The city-wise positive sentiments for Shri Narendra Modi
-![The city-wise positive sentiments for Shri Narendra Modi](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/NM.png)
+![The city-wise positive sentiments for Shri Narendra Modi](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/blob/master/NM.png)
 
 The city-wise positive sentiments for BJP
-![he city-wise positive sentiments for BJP](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/BJP.png)
+![he city-wise positive sentiments for BJP](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/blob/master/BJP.png)
 
 The city-wise positive sentiments for Shri Rahul Gandhi
-![The city-wise positive sentiments for Shri Rahul Gandhi](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/RAGA.png)
+![The city-wise positive sentiments for Shri Rahul Gandhi](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/blob/master/RAGA.png)
 
 The city-wise positive sentiments for Indian National Congress
-![The city-wise positive sentiments for Indian National Congress](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/INC.png)
+![The city-wise positive sentiments for Indian National Congress](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/blob/master/INC.png)
 
 
 I have also tried to assess the impact of the Balakot Airstrike (conducted on the 26th Feb, 2019) on the popularity of Shri Narendra Modi. He clearly gained electorally from the strike.
 
 The city-wise positive sentiments for Shri Narendra Modi before Balakot Airstrike
-![Positive sentiments for Shri Narendra Modi before Balakot Airstrike](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/NMBeforeBalakot.png)
+![Positive sentiments for Shri Narendra Modi before Balakot Airstrike](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/blob/master/NMBeforeBalakot.png)
 
 The city-wise positive sentiments for Shri Narendra Modi after Balakot Airstrike
-![Positive sentiments for Shri Narendra Modi after Balakot Airstrike](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/NMAfterBalakot.png)
+![Positive sentiments for Shri Narendra Modi after Balakot Airstrike](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/blob/master/NMAfterBalakot.png)
 
 It can clearly be seen that the Narendra Modi's popularity rised by 10% on an average after the airstrike. 
