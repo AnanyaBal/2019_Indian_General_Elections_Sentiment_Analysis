@@ -1,5 +1,5 @@
 # 2019-General-Election-Sentiment-Analysis
-This project uses tweets extracted with the help of the Twitter API to project the general public sentiment for the 2019 Indian General Elections. With the help of different queries, and parameters such as geographical coordinates, time period and radius, I have extracted tweets for different Leaders and National Parties. Once the sentiment values for positive, negative and neutral tweets is calculated, I have taken the positive values for 30 different cities in India and plotted the values on a map.
+This project uses tweets extracted with the help of the Twitter API to project the general public sentiment for the 2019 Indian General Elections (From January 2019 to April 2019). With the help of different queries, and parameters such as geographical coordinates (state capitals), time period and radius, I have extracted tweets for different Leaders and National Parties. Once the sentiment values for positive, negative and neutral tweets is calculated, I have taken the positive values for 30 different cities in India and plotted the values on a map.
 
 # Prerequisites
 To be able to execute this project, your require the following besides Python 3 - 
@@ -15,7 +15,7 @@ Installation: https://textblob.readthedocs.io/en/dev/install.html
 4. Your very own Twitter API consumer key and access token
  
 # Results 
-The statistics are shown below.
+The statistics for the two main political parties and their main leaders are shown below.
 
 The city-wise positive sentiments for Shri Narendra Modi
 ![The city-wise positive sentiments for Shri Narendra Modi](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/blob/master/NM.png)
@@ -39,7 +39,7 @@ The city-wise positive sentiments for Shri Narendra Modi after Balakot Airstrike
 ![Positive sentiments for Shri Narendra Modi after Balakot Airstrike](https://github.com/Anniebbb/2019-General-Election-Sentiment-Analysis/blob/master/NMAfterBalakot.png)
 
 # Conclusions
-It can clearly be seen that the Narendra Modi's popularity rised by 10% on an average after the airstrike and that he and his party, the BJP, were the forerunners in this elections. 
+It can clearly be seen that the Narendra Modi's popularity rised by 10% on an average after the airstrike and that he and his party, the BJP, were the forerunners in this elections. The positive sentiment for Rahul Gandhi was the highest in Thiruvananthapuram as we was had left his usual constituency in UP to contest from Kerala (capital:Thiruvananthapuram). The positive sentiment for him in the rest of the country was much lower. 
 
 
 # Author
